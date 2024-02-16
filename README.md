@@ -9,7 +9,7 @@ class Ex1
             int b=0; // can't divide by zero so here we have to change the value
            int c=a/b;
 
-           System.out.println("The Addtion is:"+c);
+           System.out.println("The Addition is:"+c);
         }
         catch(ArithmeticException e)
         {
